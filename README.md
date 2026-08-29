@@ -152,23 +152,21 @@ AI-Friend-or-Foe/
 │
 ├── README.md
 │
-├── Dissertation/
-│   └── Final Dissertation PDF
+├── Codes/
+│     ├── AES_Key_Gen.py (AES_Key_Generator)
+      ├── main.py ( Main Program )
+      ├── obfuscation.py ( Identifier Renaming Program)
 │
-├── Research-Paper/
-│   └── Published Research Paper
+├── AES_Key.txt (Which contains key to decrypt the payloads {to verify})
 │
-├── Payloads/
+├── Safe_Payloads_Used/
 │   ├── Plain/
 │   ├── Obfuscated/
 │   ├── Base92/
 │   ├── AES/
 │ 
-├── Automation-Prototype/
-│   ├── Python/
 │
-└── Documentation/
-    └── Supporting Research Material
+└── AI Friend or Foe Dissertation Paper (PDF)
 ```
 
 > **Note:** The exact folders and filenames may differ depending on how the repository is organized. The purpose of this section is to make the research material easy for future researchers to navigate.
